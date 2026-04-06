@@ -1,0 +1,17 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-family: 'Futura', 'Avant Garde', 'Century Gothic', 'Gill Sans', sans-serif;
+  background: #fff;
+  color: #000;
+}
